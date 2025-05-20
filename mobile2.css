@@ -33,4 +33,8 @@
     height: 1000px;
     width: 450px;
   }
+  .bg-width-2 {
+    width: 500px;
+    height: 560px;
+  }
 }
